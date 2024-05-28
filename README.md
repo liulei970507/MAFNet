@@ -4,10 +4,10 @@ Official PyTorch implementation of "Cross-Modal Object Tracking via Modality-Awa
 ### Citation
 If you're using this code in a publication, please cite our paper.
 
-	@inproceedings{liu2024cross,
+	@article{liu2024cross,
                   title={Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset},
                   author={Liu, Lei and Zhang, Mengya and Li, Cheng and Li, Chenglong and Tang, Jin},
-                  booktitle={IEEE Transactions on Neural Networks and Learning Systems},
+                  journal={IEEE Transactions on Neural Networks and Learning Systems},
                   year={2024}
                 }
   
