@@ -16,5 +16,5 @@ If you're using this code in a publication, please cite our paper.
 **Pretrained Model and results**
 If you only run the tracker, you can use the pretrained model: 
 [Google Drive](https://drive.google.com/drive/folders/1devKVDIBG7vf7aRa-JbUT0dFlAAOoi_y?usp=drive_link)/[Baidu Yun](https://pan.baidu.com/s/1IlK-zaEVgMmKuFunGPt7Iw?pwd=52zi).
-Also, results from pretrained model are provided in [Baidu Yun](https://pan.baidu.com/share/init?surl=7YPR9y3XfQpSONfXL_RHCQ)(Code:xxv0).
+Also, results from pretrained model are provided in [Baidu Yun](https://pan.baidu.com/share/init?surl=7YPR9y3XfQpSONfXL_RHCQ)(Code:xxv0), more details could be found in [hear](https://github.com/mmic-lcl/Datasets-and-benchmark-code).
 
